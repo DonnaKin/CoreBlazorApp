@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project\\HelloWorld\\HelloWorld.csproj": {}
+    "D:\\Project\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "d:\\Project\\HelloWorld\\HelloWorld.csproj": {
+    "D:\\Project\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "D:\\Project\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "d:\\Project\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "D:\\Project\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\mkkim\\.nuget\\packages\\",
-        "outputPath": "d:\\Project\\HelloWorld\\obj\\",
+        "outputPath": "D:\\Project\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkkim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
